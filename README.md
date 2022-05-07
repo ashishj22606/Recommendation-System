@@ -1,5 +1,6 @@
 # Recommendation-System
-Recommendation Systems 1. Recommender systems are a hot topic. Recommendation systems can be formulated as a task of matrix completion in machine learning. Recommender systems aim to predict the rating that a user will give for an item (e.g., a restaurant, a movie, a product).  
+
+Recommender systems are a hot topic. Recommendation systems can be formulated as a task of matrix completion in machine learning. Recommender systems aim to predict the rating that a user will give for an item (e.g., a restaurant, a movie, a product).  
 
 These files contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. 
 
