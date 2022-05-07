@@ -7,7 +7,7 @@ The dataset consists of movies released on or before July 2017. Data points incl
 
 Ratings are on a scale of 1-5 and have been obtained from the official GroupLens website.  
 
-Building a small recommender system with the matrix data: “ratings.csv”. You can use the recommender system library: Surprise (http://surpriselib.com), use other recommender system libraries, or implement from scratches.
+Building a small recommender system with the matrix data: “ratings.csv”. 
  
    1.  Read data from “ratings.csv” with line format: 'userID movieID rating timestamp'.
    2. MAE and RMSE are two famous metrics for evaluating the performances of a recommender system. 
